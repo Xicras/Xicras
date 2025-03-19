@@ -6,4 +6,5 @@
 - 🌱 As for programming/coding, I am learning Python, C, HTML/CSS, SQL, Powershell, Bash, 
 - 😄 Pronouns: He/Him
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/EricY.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/EricY.png" alt="Your Image Badge" />
+
